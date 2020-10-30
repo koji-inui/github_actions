@@ -1,3 +1,5 @@
+import pytest 
+import torch
 from main.calc import Calc
 
 def test_add_01():
